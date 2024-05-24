@@ -44,4 +44,5 @@ https://anaconda.org/conda-forge/matplotlib
 * pytorch (for the deep learning methods - DAE, N2N)\
 https://pytorch.org/get-started/locally/
 
-For N2V the implementation was taken from: https://github.com/juglab/PPN2V
+The N2V the implementation was taken from: https://github.com/juglab/PPN2V
+The RPCA implementation was taken from: https://github.com/dganguli/robust-pca
