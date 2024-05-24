@@ -1,5 +1,4 @@
 # ML_4Dflow
-Machine learning methods for improving corrupt 4D flow data
 
 This repository contains the python codes and data files for the following paper:
 
@@ -32,7 +31,7 @@ Installation:\
 The denoising python codes requires the following packages to be installed before running the codes:
 
 * fancyimpute (for itSVD and softImpute)\
-[https://scikit-learn.org/stable/install.html](https://pypi.org/project/fancyimpute/)
+https://pypi.org/project/fancyimpute/
 
 * vtk (for handling vtk input and output data files)\
 https://vtk.org/download/
@@ -45,4 +44,5 @@ https://anaconda.org/conda-forge/matplotlib
 https://pytorch.org/get-started/locally/
 
 The N2V the implementation was taken from: https://github.com/juglab/PPN2V
+
 The RPCA implementation was taken from: https://github.com/dganguli/robust-pca
