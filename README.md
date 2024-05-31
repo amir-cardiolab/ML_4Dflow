@@ -25,10 +25,6 @@ Python and PyTorch codes are included for the following cases:
         * Noise2Noise (N2N)
         * Noise2Void (N2V)
 
-
- <img src="./denoising/case2_4DflowMRI/4DFlowMRI.png" alt="show" style="zoom:70%;" /> 
-
-
 		
 ___
 
@@ -51,3 +47,6 @@ https://pytorch.org/get-started/locally/
 The N2V the implementation was taken from: https://github.com/juglab/PPN2V
 
 The RPCA implementation was taken from: https://github.com/dganguli/robust-pca
+
+___
+ <img src="./denoising/case2_4DflowMRI/4DFlowMRI.png" alt="show" style="zoom:70%;" /> 
