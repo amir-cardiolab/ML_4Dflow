@@ -26,7 +26,7 @@ Python and PyTorch codes are included for the following cases:
         * Noise2Void (N2V)
 
 
- <img src="./denoising/case2_4DflowMRI/4DFlowMRI.png" alt="show" style="zoom:90%;" /> 
+ <img src="./denoising/case2_4DflowMRI/4DFlowMRI.png" alt="show" style="zoom:70%;" /> 
 
 
 		
