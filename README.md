@@ -1,10 +1,12 @@
 # ML_4Dflow
 
-This repository contains the python codes and data files for the following paper:
+This repository contains the python codes for the following paper:
 
 **A comparison of machine learning methods for recovering noisy and missing 4D flow MRI data**
 
 **Hunor Csala, Omid Amili, Roshan D'Souza, Amirhossein Arzani**
+
+International Journal for Numerical Methods in Biomedical Engineering: [https://doi.org/10.1002/cnm.3858](https://doi.org/10.1002/cnm.3858)
 
 ___
 
